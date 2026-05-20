@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api"; // URL local ou a da AWS após o deploy
+const API_URL = "http://localhost:5000/api" // URL local ou a da AWS após o deploy
 
 export const buscarSapatos = async () => {
   try {

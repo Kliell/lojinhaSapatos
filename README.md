@@ -1,4 +1,5 @@
 # 👟 E-commerce Sr. Arnaldo - Loja de Sapatos
+![alt text](image.png)
 
 Aplicação Full-Stack desenvolvida de forma modular e totalmente responsiva (funciona em Desktop e Mobile) para a loja de sapatos do Sr. Arnaldo.
 
